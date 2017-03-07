@@ -1,2 +1,3 @@
 # LearningRust
-This repository is for learning Rust Lang for the Servo Project
+This repository is for learning Rust Language.
+Source: http://rustbyexample.com
