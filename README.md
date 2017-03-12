@@ -1,3 +1,7 @@
 # LearningRust
+
 This repository is for learning Rust Language.
-Source: http://rustbyexample.com
+
+Sources:
+* http://rustbyexample.com
+* https://doc.rust-lang.org/nightly/book/
