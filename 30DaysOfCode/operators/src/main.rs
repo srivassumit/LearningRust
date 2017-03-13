@@ -20,8 +20,8 @@ fn main() {
 	let tax_percent: f32 = tax_percent.trim().parse()
 		.expect("Please enter a number");
 
-	let mut total_cost: f32;
+	let total_cost: f32;
 	total_cost = meal_cost + (tip_percent + tax_percent)*meal_cost/100.0;
-
-	println!("The total meal cost is {} dollars.", total_cost.floor());
+	
+	println!("The total meal cost is {} dollars.", total_cost.round());
 }
