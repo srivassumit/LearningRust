@@ -1,0 +1,5 @@
+[package]
+
+name = "operators"
+version = "0.0.1"
+authors = [ "Sumit Srivastava <srivassumit@gmail.com>" ]
